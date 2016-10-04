@@ -1,0 +1,9 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ p{
+ 	width: 200px;
+ 	height: 200px;
+ 	background-color: skyblue;
+ }
